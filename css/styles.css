@@ -639,12 +639,9 @@ body {
 }
 /* FORM Footer */
 .form-footer {
-	width: 453px;
-	margin-left: 80px;
+	margin-left: auto;
 }
 .title-form {
-	font-family: 'Roboto';
-	font-style: normal;
 	font-weight: 500;
 	font-size: 16px;
 	line-height: 1.5;
@@ -682,8 +679,7 @@ body {
 	display: inline-flex;
 	align-items: center;
 	gap: 16px;
-	font-family: 'Roboto';
-	font-style: normal;
+	font-family: inherit;
 	height: 40px;
 	font-weight: 500;
 	font-size: 16px;
@@ -714,8 +710,6 @@ body {
 	flex-direction: column;
 }
 .title-for-modal-form {
-	font-family: 'Roboto';
-	font-style: normal;
 	font-weight: 500;
 	font-size: 16px;
 	line-height: 1.5;
@@ -729,8 +723,6 @@ body {
 }
 
 .text-main {
-	font-family: 'Roboto';
-	font-style: normal;
 	font-weight: 400;
 	font-size: 12px;
 	line-height: 1.17;
@@ -784,8 +776,7 @@ body {
 	border-radius: 4px;
 	width: 169px;
 	margin: 0px auto;
-	font-family: 'Roboto';
-	font-style: normal;
+	font-family: inherit;
 	font-weight: 500;
 	font-size: 16px;
 	line-height: 1.5;
@@ -834,8 +825,6 @@ body {
 	overflow: hidden;
 }
 .text-policy {
-	font-family: 'Roboto';
-	font-style: normal;
 	font-weight: 400;
 	font-size: 12px;
 	line-height: 1.17;
@@ -843,8 +832,6 @@ body {
 	color: var(--color-light-slate);
 }
 .link-policy {
-	font-family: 'Roboto';
-	font-style: normal;
 	font-weight: 400;
 	font-size: 12px;
 	line-height: 1.17;
